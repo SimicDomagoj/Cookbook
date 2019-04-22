@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_category_view.html" title=" " alt="" coords="185,5,288,32"/>
+<area shape="rect" id="node2" href="$class_qml_category_view.html" title=" " alt="" coords="371,5,497,32"/>
+<area shape="rect" id="node3" href="$class_category_view_model.html" title=" " alt="" coords="168,56,305,83"/>
+<area shape="rect" id="node4" href="$class_qml_category_view_model.html" title=" " alt="" coords="353,56,515,83"/>
+<area shape="rect" id="node5" href="$class_filter.html" title=" " alt="" coords="5,107,120,133"/>
+<area shape="rect" id="node6" href="$struct_recipe_filter.html" title=" " alt="" coords="191,107,282,133"/>
+<area shape="rect" id="node7" href="$class_qml_recipe_filter.html" title=" " alt="" coords="377,107,491,133"/>
+<area shape="rect" id="node8" href="$class_list_input_view_model.html" title=" " alt="" coords="169,157,304,184"/>
+<area shape="rect" id="node9" href="$class_qml_list_model.html" title=" " alt="" coords="383,157,485,184"/>
+<area shape="rect" id="node10" href="$class_list_view.html" title=" " alt="" coords="201,259,272,285"/>
+<area shape="rect" id="node11" href="$class_qml_list_view.html" title=" " alt="" coords="387,259,481,285"/>
+<area shape="rect" id="node12" title=" " alt="" coords="201,208,272,235"/>
+<area shape="rect" id="node13" href="$class_cookbook_app.html" title=" " alt="" coords="383,208,485,235"/>
+<area shape="rect" id="node14" href="$class_qml_recipe_view.html" title=" " alt="" coords="377,309,491,336"/>
+<area shape="rect" id="node15" href="$class_qml_recipe_view_model.html" title=" " alt="" coords="359,360,509,387"/>
+<area shape="rect" id="node16" href="$class_qml_shopping_list_view.html" title=" " alt="" coords="359,411,509,437"/>
+<area shape="rect" id="node17" href="$class_recipe_view.html" title=" " alt="" coords="191,309,282,336"/>
+<area shape="rect" id="node18" href="$class_recipe_view_model.html" title=" " alt="" coords="174,360,299,387"/>
+<area shape="rect" id="node19" href="$class_shopping_list_view.html" title=" " alt="" coords="174,411,299,437"/>
+</map>

@@ -1,0 +1,5 @@
+1:Main dish:../main dish.jpg
+2:Pasta:../pasta.jpg
+3:Salad:../salad.jpg
+4:Soup:../soup.jpg
+5:Stew:../stew.jpg

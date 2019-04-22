@@ -1,0 +1,12 @@
+<map id="controllers/recipecontroller.h" name="controllers/recipecontroller.h">
+<area shape="rect" id="node1" title=" " alt="" coords="570,5,755,32"/>
+<area shape="rect" id="node2" href="$recipelistcontroller_8h.html" title=" " alt="" coords="356,80,559,107"/>
+<area shape="rect" id="node3" href="$categorycontroller_8h.html" title=" " alt="" coords="17,155,217,181"/>
+<area shape="rect" id="node4" href="$categorycontroller_8cpp.html" title=" " alt="" coords="430,229,645,256"/>
+<area shape="rect" id="node9" href="$recipecontroller_8cpp.html" title=" " alt="" coords="701,80,899,107"/>
+<area shape="rect" id="node10" href="$qmlrecipeview_8cpp.html" title=" " alt="" coords="924,80,1087,107"/>
+<area shape="rect" id="node7" href="$recipelistcontroller_8cpp.html" title=" " alt="" coords="241,155,457,181"/>
+<area shape="rect" id="node8" href="$qmllistview_8cpp.html" title=" " alt="" coords="481,155,625,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="5,229,80,256"/>
+<area shape="rect" id="node6" href="$qmlcategoryview_8cpp.html" title=" " alt="" coords="105,229,282,256"/>
+</map>

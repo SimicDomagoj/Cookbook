@@ -1,0 +1,17 @@
+<map id="models/category.h" name="models/category.h">
+<area shape="rect" id="node1" title=" " alt="" coords="635,5,764,32"/>
+<area shape="rect" id="node2" href="$categoryservice_8h.html" title=" " alt="" coords="259,80,433,107"/>
+<area shape="rect" id="node4" href="$categorycontroller_8cpp.html" title=" " alt="" coords="339,229,553,256"/>
+<area shape="rect" id="node8" href="$categoryrepository_8h.html" title=" " alt="" coords="523,80,734,107"/>
+<area shape="rect" id="node9" href="$categorydiskrepository_8h.html" title=" " alt="" coords="766,155,1001,181"/>
+<area shape="rect" id="node13" href="$categoryfilter_8h.html" title=" " alt="" coords="809,80,987,107"/>
+<area shape="rect" id="node15" href="$category_8cpp.html" title=" " alt="" coords="1012,80,1155,107"/>
+<area shape="rect" id="node3" href="$categorycontroller_8h.html" title=" " alt="" coords="27,155,227,181"/>
+<area shape="rect" id="node7" href="$categoryservice_8cpp.html" title=" " alt="" coords="252,155,440,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="207,229,282,256"/>
+<area shape="rect" id="node6" href="$qmlcategoryview_8cpp.html" title=" " alt="" coords="5,229,183,256"/>
+<area shape="rect" id="node12" href="$categoryrepository_8cpp.html" title=" " alt="" coords="516,155,741,181"/>
+<area shape="rect" id="node10" href="$repositoryfactory_8cpp.html" title=" " alt="" coords="941,229,1137,256"/>
+<area shape="rect" id="node11" href="$categorydiskrepository_8cpp.html" title=" " alt="" coords="668,229,917,256"/>
+<area shape="rect" id="node14" href="$categoryfilter_8cpp.html" title=" " alt="" coords="1025,155,1217,181"/>
+</map>

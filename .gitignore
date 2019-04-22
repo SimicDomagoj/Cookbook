@@ -1,0 +1,6 @@
+# Qt project files
+*.pro*
+*.autosave
+# Directories
+backup/
+Illustrator files/
